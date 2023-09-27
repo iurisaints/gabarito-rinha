@@ -20,9 +20,9 @@ class CalculadoraGeometria {
     }
   }
   
-  const forma = "círculo"; // Substitua pela forma desejada: "círculo", "triângulo" ou "quadrado"
+  const forma = "círculo"; //ou qualquer outra forma.
   const dadosForma = {
-    raio: 5, // Substitua pelos dados necessários para cada forma
+    raio: 5, // referente ao círculo
   };
   
   const area = CalculadoraGeometria.calcularAreaForma(forma, dadosForma);
