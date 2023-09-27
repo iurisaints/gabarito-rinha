@@ -39,6 +39,6 @@ function jogoDaForca(palavraSecreta, maxTentativas) {
   }
 }
 
-const palavraSecreta = "PROGRAMACAO"; // Substitua pela palavra desejada
-const maxTentativas = 6; // Escolha o número máximo de tentativas
+const palavraSecreta = "PROGRAMACAO"; 
+const maxTentativas = 6;
 jogoDaForca(palavraSecreta, maxTentativas);
